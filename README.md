@@ -108,3 +108,5 @@ Notes
 -----
 
 The Annotated_MNIST.py is a thickness and skew labeler for MNIST handwritten digit dataset, intended to be used for toy text to image generation tasks or specific classification tasks. More details can be found in [this](https://github.com/1202kbs/Annotated_MNIST) repository.
+
+This GAN was not able to learn proper associations between input sentences and image features due to the lack of depth. Any modifications to the model structure/configuration is welcome.
