@@ -1,5 +1,5 @@
-StackGAN in Tensorflow
-======================
+Generative Adversarial Text to Image Synthesis in Tensorflow
+============================================================
 
 Tensorflow implementation of [Generative Adversarial Text to Image Synthesis](https://arxiv.org/abs/1605.05396) for MNIST handwritten digit dataset.
 
